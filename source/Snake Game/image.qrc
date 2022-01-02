@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/backpicture.png</file>
+        <file>image/fruit.png</file>
+        <file>image/snake.png</file>
+        <file>image/snake_head_down.png</file>
+        <file>image/snake_head_right.png</file>
+        <file>image/snake_head_left.png</file>
+        <file>image/snake_head_up.png</file>
+        <file>image/sneak_torso.png</file>
+        <file>image/fruit1.png</file>
+    </qresource>
+</RCC>
